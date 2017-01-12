@@ -1,0 +1,327 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.10 (/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar:///Library/Python/2.7/site-packages/docebo_sso-0.0.2-py2.7.egg!/" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/requests-2.7.0-py2.7.egg" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/simplejson-3.8.0-py2.7.egg" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/348993582" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.9 (ssh://peen@nif-snapperdev01:22/home/peen/peendev/bin/python2.7)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.9" />
+      <homePath value="ssh://peen@nif-snapperdev01:22/home/peen/peendev/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/207244589" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/201544331" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/724150857" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/-957022035" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/53654416" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/Extremes-1.1.1-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/AddOns-0.7-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/DecoratorTools-1.8-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/BytecodeAssembler-0.6-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/SymbolType-1.0-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/1647000964" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/-733137081" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/pathlib-1.0.1-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/enum34-1.1.6-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/188053329" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/-737127572" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/Extremes-1.1.1-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/AddOns-0.7-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/DecoratorTools-1.8-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/BytecodeAssembler-0.6-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/SymbolType-1.0-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/2126876256" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/-253261789" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/pathlib-1.0.1-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/enum34-1.1.6-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/156291980" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/636167272" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/-1778766956" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional HOST="nif-snapperdev01" PORT="22" ANONYMOUS="false" USERNAME="peen" PASSWORD="dffadfc5dfd9dfdedfcfdffbdfcbdfc1dfcfdf9fdf9c" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/home/peen/peendev/bin/python2.7" HELPERS_PATH="/home/peen/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.9">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/207244589" remote-root="/home/peen/peendev/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/-957022035" remote-root="/home/peen/peendev/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/53654416" remote-root="/home/peen/peendev/local/lib/python2.7/site-packages/PEAK_Rules-0.5a1.dev_r2713-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/Extremes-1.1.1-py2.7.egg" remote-root="/home/peen/peendev/local/lib/python2.7/site-packages/Extremes-1.1.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/AddOns-0.7-py2.7.egg" remote-root="/home/peen/peendev/local/lib/python2.7/site-packages/AddOns-0.7-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/DecoratorTools-1.8-py2.7.egg" remote-root="/home/peen/peendev/local/lib/python2.7/site-packages/DecoratorTools-1.8-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/BytecodeAssembler-0.6-py2.7.egg" remote-root="/home/peen/peendev/local/lib/python2.7/site-packages/BytecodeAssembler-0.6-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/SymbolType-1.0-py2.7.egg" remote-root="/home/peen/peendev/local/lib/python2.7/site-packages/SymbolType-1.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/1647000964" remote-root="/home/peen/peendev/local/lib/python2.7/site-packages/Grape-2.8rc1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/-733137081" remote-root="/home/peen/peendev/local/lib/python2.7/site-packages/pyScss-1.3.5-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/pathlib-1.0.1-py2.7.egg" remote-root="/home/peen/peendev/local/lib/python2.7/site-packages/pathlib-1.0.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/enum34-1.1.6-py2.7.egg" remote-root="/home/peen/peendev/local/lib/python2.7/site-packages/enum34-1.1.6-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/188053329" remote-root="/home/peen/peendev/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/-737127572" remote-root="/home/peen/peendev/lib/python2.7/site-packages/PEAK_Rules-0.5a1.dev_r2713-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/Extremes-1.1.1-py2.7.egg" remote-root="/home/peen/peendev/lib/python2.7/site-packages/Extremes-1.1.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/AddOns-0.7-py2.7.egg" remote-root="/home/peen/peendev/lib/python2.7/site-packages/AddOns-0.7-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/DecoratorTools-1.8-py2.7.egg" remote-root="/home/peen/peendev/lib/python2.7/site-packages/DecoratorTools-1.8-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/BytecodeAssembler-0.6-py2.7.egg" remote-root="/home/peen/peendev/lib/python2.7/site-packages/BytecodeAssembler-0.6-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/SymbolType-1.0-py2.7.egg" remote-root="/home/peen/peendev/lib/python2.7/site-packages/SymbolType-1.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/2126876256" remote-root="/home/peen/peendev/lib/python2.7/site-packages/Grape-2.8rc1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/-253261789" remote-root="/home/peen/peendev/lib/python2.7/site-packages/pyScss-1.3.5-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/pathlib-1.0.1-py2.7.egg" remote-root="/home/peen/peendev/lib/python2.7/site-packages/pathlib-1.0.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/enum34-1.1.6-py2.7.egg" remote-root="/home/peen/peendev/lib/python2.7/site-packages/enum34-1.1.6-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/156291980" remote-root="/home/peen/peendev/local/lib/python2.7/site-packages/Grape-2.8rc9-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1778766956/636167272" remote-root="/home/peen/peendev/lib/python2.7/site-packages/Grape-2.8rc9-py2.7.egg" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.6 (ssh://peen@peendev.snappergrape.no:22/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="ssh://peen@peendev.snappergrape.no:22/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1881515780/-1053136275" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1881515780/2046914639" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1881515780/201544331" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1881515780/724150857" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1881515780/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1881515780/-1227933812" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1881515780/-125940560" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/1881515780" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional HOST="peendev.snappergrape.no" PORT="22" ANONYMOUS="false" USERNAME="peen" PASSWORD="" PRIVATE_KEY_FILE="$USER_HOME$/.ssh/id_rsa" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="dffadfc5dfd9dfdedfcfdffbdfcbdfc1dfcfdf9fdf9c" USE_KEY_PAIR="true" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/home/peen/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.6">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1881515780/-1053136275" remote-root="/usr/local/lib/python2.7/dist-packages/virtualenv-13.1.2-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1881515780/2046914639" remote-root="/usr/local/lib/python2.7/dist-packages/simplejson-3.8.1-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1881515780/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1881515780/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1881515780/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1881515780/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/1881515780/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.6 (ssh://peen@peendev.snappergrape.no:22/srv/grape/peendev26/bin/python2.7)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="ssh://peen@peendev.snappergrape.no:22/srv/grape/peendev26/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/558347393" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/1644672265" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/1260097498" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/202994986" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/TurboJson-1.3.2-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/1868502663" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/1765566380" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/224404474" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/configobj-5.0.6-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-1776285122" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-455054823" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/Extremes-1.1.1-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/AddOns-0.7-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/DecoratorTools-1.8-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/BytecodeAssembler-0.6.post2646-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/1864027420" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/1472661004" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-206953407" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/SymbolType-1.0-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/feedparser-5.2.1-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/vobject-0.8.1rc0-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/199961826" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/Pillow-3.0.0-py2.7-linux-x86_64.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/2086652559" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/25459182" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/MySQL_python-1.2.5-py2.7-linux-x86_64.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-951360222" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/beautifulsoup4-4.4.1-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/931753336" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-1895752287" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/1441162796" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/Genshi-0.6-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/43625990" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-1755773255" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-471460123" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/957812005" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/1442265918" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-483865274" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/TurboJson-1.3.2-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-433849437" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/1947734800" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-462455786" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/configobj-5.0.6-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/1630185306" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/801251197" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/Extremes-1.1.1-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/AddOns-0.7-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/DecoratorTools-1.8-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/BytecodeAssembler-0.6.post2646-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-2066855624" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/1654829424" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-1980552539" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/SymbolType-1.0-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/feedparser-5.2.1-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/vobject-0.8.1rc0-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-1573637306" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/Pillow-3.0.0-py2.7-linux-x86_64.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/1198155691" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-863037686" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/MySQL_python-1.2.5-py2.7-linux-x86_64.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-1244936058" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/beautifulsoup4-4.4.1-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/43256468" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/1747004349" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/67434128" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/Genshi-0.6-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-560440030" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-730087850" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/201544331" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/724150857" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-1116519594" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/419209954" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-1012847430" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/522445762" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional HOST="peendev.snappergrape.no" PORT="22" ANONYMOUS="false" USERNAME="peen" PASSWORD="" PRIVATE_KEY_FILE="$USER_HOME$/.ssh/id_rsa" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="dffadfc5dfd9dfdedfcfdffbdfcbdfc1dfcfdf9fdf9c" USE_KEY_PAIR="true" INTERPRETER_PATH="/srv/grape/peendev26/bin/python2.7" HELPERS_PATH="/home/peen/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.6">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/558347393" remote-root="/srv/grape/peendev26/local/lib/python2.7/site-packages/python_dateutil-1.5-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/1644672265" remote-root="/srv/grape/peendev26/local/lib/python2.7/site-packages/TurboGears-1.5.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/1260097498" remote-root="/srv/grape/peendev26/local/lib/python2.7/site-packages/TGScheduler-1.7.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/202994986" remote-root="/srv/grape/peendev26/local/lib/python2.7/site-packages/tgMochiKit-1.4.2-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/TurboJson-1.3.2-py2.7.egg" remote-root="/srv/grape/peendev26/local/lib/python2.7/site-packages/TurboJson-1.3.2-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/1868502663" remote-root="/srv/grape/peendev26/local/lib/python2.7/site-packages/PEAK_Rules-0.5a1.dev_r2713-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/1765566380" remote-root="/srv/grape/peendev26/local/lib/python2.7/site-packages/PasteScript-2.0.2-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/224404474" remote-root="/srv/grape/peendev26/local/lib/python2.7/site-packages/FormEncode-1.3.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/configobj-5.0.6-py2.7.egg" remote-root="/srv/grape/peendev26/local/lib/python2.7/site-packages/configobj-5.0.6-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-1776285122" remote-root="/srv/grape/peendev26/local/lib/python2.7/site-packages/six-1.10.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-455054823" remote-root="/srv/grape/peendev26/local/lib/python2.7/site-packages/simplejson-3.8.1-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/Extremes-1.1.1-py2.7.egg" remote-root="/srv/grape/peendev26/local/lib/python2.7/site-packages/Extremes-1.1.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/AddOns-0.7-py2.7.egg" remote-root="/srv/grape/peendev26/local/lib/python2.7/site-packages/AddOns-0.7-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/DecoratorTools-1.8-py2.7.egg" remote-root="/srv/grape/peendev26/local/lib/python2.7/site-packages/DecoratorTools-1.8-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/BytecodeAssembler-0.6.post2646-py2.7.egg" remote-root="/srv/grape/peendev26/local/lib/python2.7/site-packages/BytecodeAssembler-0.6.post2646-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/1864027420" remote-root="/srv/grape/peendev26/local/lib/python2.7/site-packages/Cheetah-1.0-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/1472661004" remote-root="/srv/grape/peendev26/local/lib/python2.7/site-packages/PasteDeploy-1.5.2-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-206953407" remote-root="/srv/grape/peendev26/local/lib/python2.7/site-packages/Paste-2.0.2-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/SymbolType-1.0-py2.7.egg" remote-root="/srv/grape/peendev26/local/lib/python2.7/site-packages/SymbolType-1.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/feedparser-5.2.1-py2.7.egg" remote-root="/srv/grape/peendev26/local/lib/python2.7/site-packages/feedparser-5.2.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/vobject-0.8.1rc0-py2.7.egg" remote-root="/srv/grape/peendev26/local/lib/python2.7/site-packages/vobject-0.8.1rc0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/199961826" remote-root="/srv/grape/peendev26/local/lib/python2.7/site-packages/pisa-3.0.33-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/Pillow-3.0.0-py2.7-linux-x86_64.egg" remote-root="/srv/grape/peendev26/local/lib/python2.7/site-packages/Pillow-3.0.0-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/2086652559" remote-root="/srv/grape/peendev26/local/lib/python2.7/site-packages/xlrd-0.9.4-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/25459182" remote-root="/srv/grape/peendev26/local/lib/python2.7/site-packages/xlwt-1.0.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/MySQL_python-1.2.5-py2.7-linux-x86_64.egg" remote-root="/srv/grape/peendev26/local/lib/python2.7/site-packages/MySQL_python-1.2.5-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-951360222" remote-root="/srv/grape/peendev26/local/lib/python2.7/site-packages/zope.interface-4.1.3-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/beautifulsoup4-4.4.1-py2.7.egg" remote-root="/srv/grape/peendev26/local/lib/python2.7/site-packages/beautifulsoup4-4.4.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/931753336" remote-root="/srv/grape/peendev26/local/lib/python2.7/site-packages/Mako-1.0.3-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-1895752287" remote-root="/srv/grape/peendev26/local/lib/python2.7/site-packages/MarkupSafe-0.23-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/1441162796" remote-root="/srv/grape/peendev26/local/lib/python2.7/site-packages/lxml-3.5.0-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/Genshi-0.6-py2.7.egg" remote-root="/srv/grape/peendev26/local/lib/python2.7/site-packages/Genshi-0.6-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/43625990" remote-root="/srv/grape/peendev26/local/lib/python2.7/site-packages/CherryPy-3.2.3-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-1755773255" remote-root="/srv/datadisk02/grape/peendev26/coopdemo/grape2.8" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-471460123" remote-root="/srv/grape/peendev26/lib/python2.7/site-packages/python_dateutil-1.5-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/957812005" remote-root="/srv/grape/peendev26/lib/python2.7/site-packages/TurboGears-1.5.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/1442265918" remote-root="/srv/grape/peendev26/lib/python2.7/site-packages/TGScheduler-1.7.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-483865274" remote-root="/srv/grape/peendev26/lib/python2.7/site-packages/tgMochiKit-1.4.2-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/TurboJson-1.3.2-py2.7.egg" remote-root="/srv/grape/peendev26/lib/python2.7/site-packages/TurboJson-1.3.2-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-433849437" remote-root="/srv/grape/peendev26/lib/python2.7/site-packages/PEAK_Rules-0.5a1.dev_r2713-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/1947734800" remote-root="/srv/grape/peendev26/lib/python2.7/site-packages/PasteScript-2.0.2-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-462455786" remote-root="/srv/grape/peendev26/lib/python2.7/site-packages/FormEncode-1.3.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/configobj-5.0.6-py2.7.egg" remote-root="/srv/grape/peendev26/lib/python2.7/site-packages/configobj-5.0.6-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/1630185306" remote-root="/srv/grape/peendev26/lib/python2.7/site-packages/six-1.10.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/801251197" remote-root="/srv/grape/peendev26/lib/python2.7/site-packages/simplejson-3.8.1-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/Extremes-1.1.1-py2.7.egg" remote-root="/srv/grape/peendev26/lib/python2.7/site-packages/Extremes-1.1.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/AddOns-0.7-py2.7.egg" remote-root="/srv/grape/peendev26/lib/python2.7/site-packages/AddOns-0.7-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/DecoratorTools-1.8-py2.7.egg" remote-root="/srv/grape/peendev26/lib/python2.7/site-packages/DecoratorTools-1.8-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/BytecodeAssembler-0.6.post2646-py2.7.egg" remote-root="/srv/grape/peendev26/lib/python2.7/site-packages/BytecodeAssembler-0.6.post2646-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-2066855624" remote-root="/srv/grape/peendev26/lib/python2.7/site-packages/Cheetah-1.0-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/1654829424" remote-root="/srv/grape/peendev26/lib/python2.7/site-packages/PasteDeploy-1.5.2-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-1980552539" remote-root="/srv/grape/peendev26/lib/python2.7/site-packages/Paste-2.0.2-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/SymbolType-1.0-py2.7.egg" remote-root="/srv/grape/peendev26/lib/python2.7/site-packages/SymbolType-1.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/feedparser-5.2.1-py2.7.egg" remote-root="/srv/grape/peendev26/lib/python2.7/site-packages/feedparser-5.2.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/vobject-0.8.1rc0-py2.7.egg" remote-root="/srv/grape/peendev26/lib/python2.7/site-packages/vobject-0.8.1rc0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-1573637306" remote-root="/srv/grape/peendev26/lib/python2.7/site-packages/pisa-3.0.33-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/Pillow-3.0.0-py2.7-linux-x86_64.egg" remote-root="/srv/grape/peendev26/lib/python2.7/site-packages/Pillow-3.0.0-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/1198155691" remote-root="/srv/grape/peendev26/lib/python2.7/site-packages/xlrd-0.9.4-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-863037686" remote-root="/srv/grape/peendev26/lib/python2.7/site-packages/xlwt-1.0.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/MySQL_python-1.2.5-py2.7-linux-x86_64.egg" remote-root="/srv/grape/peendev26/lib/python2.7/site-packages/MySQL_python-1.2.5-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-1244936058" remote-root="/srv/grape/peendev26/lib/python2.7/site-packages/zope.interface-4.1.3-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/beautifulsoup4-4.4.1-py2.7.egg" remote-root="/srv/grape/peendev26/lib/python2.7/site-packages/beautifulsoup4-4.4.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/43256468" remote-root="/srv/grape/peendev26/lib/python2.7/site-packages/Mako-1.0.3-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/1747004349" remote-root="/srv/grape/peendev26/lib/python2.7/site-packages/MarkupSafe-0.23-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/67434128" remote-root="/srv/grape/peendev26/lib/python2.7/site-packages/lxml-3.5.0-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/Genshi-0.6-py2.7.egg" remote-root="/srv/grape/peendev26/lib/python2.7/site-packages/Genshi-0.6-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-560440030" remote-root="/srv/grape/peendev26/lib/python2.7/site-packages/CherryPy-3.2.3-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-730087850" remote-root="/srv/grape/peendev26/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-1116519594" remote-root="/srv/grape/peendev26/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/419209954" remote-root="/srv/datadisk02/grape/peendev26/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/522445762/-1012847430" remote-root="/srv/grape/peendev26/lib/python2.7/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+  </component>
+</application>
