@@ -5,6 +5,7 @@
       <mapping pattern="json" type="JSON" />
       <mapping pattern="topmenu" type="Mako" />
       <mapping ext="mak" type="Mako" />
+      <mapping ext="mwb" type="Native" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
