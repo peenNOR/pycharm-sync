@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '.../grape/model/coursegroup.py - [grape2.8]'" />
+    <option name="defaultScopeName" value="File '.../grape/model/coursegroup.py - [grape2.8]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '.../grape/model/coursegroup.py - [grape2.8]'" />
   </component>
 </application>
