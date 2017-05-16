@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="30c24063-9a36-41ca-9c84-eeafa9e21dc2" name="cg01" url="http://cg01.snappergrape.no">
+        <fileTransfer host="cg01.snappergrape.no" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/peen/peendev" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
