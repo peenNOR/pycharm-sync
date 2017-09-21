@@ -31,6 +31,7 @@
               <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
               <option value="com.intellij.diff.tools.binary.BinaryDiffTool" />
               <option value="com.intellij.diff.tools.dir.DirDiffTool" />
+              <option value="com.intellij.openapi.vcs.changes.patch.tool.PatchDiffTool" />
             </list>
           </option>
         </PlaceSettings>
@@ -51,8 +52,9 @@
       </entry>
       <entry key="Default">
         <PlaceSettings>
+          <option name="EXPAND_BY_DEFAULT" value="false" />
           <option name="HIGHLIGHT_POLICY" value="BY_WORD_SPLIT" />
-          <option name="IGNORE_POLICY" value="TRIM_WHITESPACES" />
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
         </PlaceSettings>
       </entry>
     </option>
