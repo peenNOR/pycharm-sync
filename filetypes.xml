@@ -8,7 +8,6 @@
       <mapping ext="mak" type="Mako" />
       <mapping ext="mwb" type="Native" />
       <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="cfg" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

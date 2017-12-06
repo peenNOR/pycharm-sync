@@ -9,6 +9,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="59adcb11-fa5c-4d89-9d3f-c6335b21aa0e" name="Copy of project-level server 'peendev.snapper.no'" url="http://dev01.snapper.no">
+        <fileTransfer host="dev01.snapper.no" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/peen/peendev" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
